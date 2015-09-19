@@ -22,6 +22,7 @@ h1 {
 
 .header p {
 	padding-bottom: 15px;
+	font-size: 15px;
 }
 
 .header {
@@ -36,3 +37,64 @@ h2 {
 	margin-left: -21px;
 	margin-bottom: 10px ;
 }
+
+.boxes {
+	padding: 60px 0 80px 0;
+}
+.box {
+	display: inline;
+	padding: 27px 27px;
+	font-size: 25px;
+	font-weight: bold;
+	color: #96999e;
+	background-color: #d6dbdf;
+	border-bottom: 3px solid #7f898a;
+	border-radius: 3px;
+	margin-right: 10px;
+}
+
+.2 {
+	background-color: #fe5627;
+	color: ;
+}
+
+.cat {
+	border-top: 2px solid #d8dcdf;
+	padding-top:10px;
+}
+
+span {
+	font-family: monospace;
+	background-color: #d6dbdf;
+	padding: 0 2px 0 2px;
+}
+
+img {
+	padding-top: 25px;
+	padding-bottom: 55px;
+}
+
+.link {
+	border-top: 1px solid #d8dcdf;
+	padding-top: 20px;
+	padding-bottom:80px;
+}
+
+a {
+	display:block;
+	width: 260px;
+	border-radius: 5px;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	color: #622014;
+	text-decoration: none;
+	letter-spacing: -1px;
+	background-color: #fe5627;
+	padding: 45px 45px;
+	margin-top: 20px;
+}
+
+a:hover {
+	background-color: #e1e1e1;
+	color: #fe5627;
