@@ -53,9 +53,16 @@ h2 {
 	margin-right: 10px;
 }
 
-.2 {
+.special {
+	display: inline;
+	padding: 27px 27px;
+	font-size: 25px;
+	font-weight: bold;
+	color: #b13f1b;
 	background-color: #fe5627;
-	color: ;
+	border-bottom: 3px solid #d75203;
+	border-radius: 3px;
+	margin-right: 10px;
 }
 
 .cat {
