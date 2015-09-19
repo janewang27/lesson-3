@@ -1,0 +1,38 @@
+html {
+	background-color: #d6dbdf;
+}
+
+body {
+	font-family: arial;
+	background-color: white;
+	width: 600px;
+	margin: 30px 300px 100px 300px;
+	padding: 38px;
+	border-radius: 8px;
+}
+
+h1 {
+	color:#d6dbdf;
+	font-weight: bold;
+	font-size: 50px;
+	letter-spacing: -2px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.header p {
+	padding-bottom: 15px;
+}
+
+.header {
+	border-bottom: 3px solid #d8dbe0;
+}
+
+h2 {
+	color: #4a4b4d;
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 35px;
+	margin-left: -21px;
+	margin-bottom: 10px ;
+}
