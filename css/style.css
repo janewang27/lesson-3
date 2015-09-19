@@ -20,6 +20,10 @@ h1 {
 	padding-bottom: 20px;
 }
 
+i {
+	font-style: italic;
+}
+
 .header p {
 	padding-bottom: 15px;
 	font-size: 15px;
