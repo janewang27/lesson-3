@@ -84,7 +84,13 @@ img {
 .link {
 	border-top: 1px solid #d8dcdf;
 	padding-top: 20px;
-	padding-bottom:80px;
+	padding-bottom: 50px;
+}
+
+.end {
+	border-top: 2px solid #d8dcdf;
+	padding-bottom: 40px;
+	color: white;
 }
 
 a {
